@@ -1,0 +1,6 @@
+npm i multer  
+npm i cloudinary
+npm install jsonwebtoken
+npm i joi bcryptjs express-async-handler
+ npm i -D nodemon
+npm i express mongoose dotenv
